@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053811769509",
+    "project_id": "locationgrab-3de2d",
+    "storage_bucket": "locationgrab-3de2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053811769509:android:faeb41b37aedda63e98d4c",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053811769509-j93560s8nadgii4u8i1ccr8ahas5p532.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled",
+            "certificate_hash": "398acf0523c046fad5490d7f276542c0598ca1ac"
+          }
+        },
+        {
+          "client_id": "1053811769509-p28ihgt0dla658836pkv6n8sr5glbtii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB88PBYQm-fb78x-lY34ZZQkdCLB7HBz5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053811769509-p28ihgt0dla658836pkv6n8sr5glbtii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
